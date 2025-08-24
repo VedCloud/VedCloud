@@ -49,7 +49,7 @@ I design scalable, secure, and expressive infrastructure — blending technical 
 
 ## 📁 Featured Repos
 
-- [`Multicloud-Playbooks`](https://github.com/yourusername/Multicloud-Playbooks) — Reference-grade Terraform modules and IAM templates  
+- [`KishoreKumarRVCModel`](https://github.com/VedCloud/KishoreKumarRVCModel) — A legacy-grade voice model engineered by Ved Prajapati
 - [`Activation-Log-Archive`](https://github.com/yourusername/Activation-Log-Archive) — Timestamped product keys, ISO hashes, and branded metadata  
 - [`Cloud-Audit-Toolkit`](https://github.com/yourusername/Cloud-Audit-Toolkit) — Scripts for compliance checks, IAM audits, and cost tracking
 
