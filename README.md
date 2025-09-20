@@ -1,4 +1,4 @@
-# 🌩️ Hi, I'm Ved Prajapati
+# ☁️ Hi, I'm Ved Prajapati
 
 Cloud architect in training with 30+ certifications across AWS, GCP, Azure, Aviatrix, and more.  
 I design scalable, secure, and expressive infrastructure — blending technical rigor with branded documentation.
