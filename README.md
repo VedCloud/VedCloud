@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ved Prajapati
+# Ved Prajapati
 
 **Cloud Engineer & AI Engineer**  
 **Founder of Vedaris & Outclass**
@@ -22,15 +22,15 @@ I build products that help people escape irrelevant education and gain real capa
 
 ---
 
-## 🚀 Building
+## 🚀 What I'm Building
 
 ### **Outclass**
 A global, premium learning platform powered by adaptive intelligence and hands‑on mastery.  
 Focused on real‑world capability, personalised learning flows, and measurable outcomes.
 
-### **Vedaris**
-Cloud engineering and AI‑driven workflow design.  
-Architecting scalable systems, multi‑platform automation, and production‑grade SaaS foundations.
+### **Vedaris — Cloud Consultancy**
+Designing scalable cloud architectures, multi‑platform workflows, and AI‑driven automation.  
+Helping teams build reliable, modern, production‑ready systems.
 
 ---
 
@@ -51,4 +51,4 @@ Architecting scalable systems, multi‑platform automation, and production‑gra
 
 ---
 
-### ⭐ Always building systems that outlast trends.
+### ⭐ Building systems that outlast trends.
