@@ -45,14 +45,3 @@ Helping teams build reliable, modern, production‑ready systems.
 - Minimal, intentional, Swiss‑inspired product design  
 
 ---
-
-## Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vedprajapati&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedprajapati&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-### Building systems that outlast trends.
