@@ -3,52 +3,56 @@
 **Cloud Engineer & AI Engineer**  
 **Founder of Vedaris & Outclass**
 
-Architecting real‑world learning systems, AI‑native workflows, and scalable cloud platforms.  
-I build products that help people escape irrelevant education and gain real capability.
+I architect real‑world learning systems, AI‑native workflows, and scalable cloud platforms.  
+My work focuses on helping people move beyond irrelevant education and gain real capability through intentional, hands‑on, intelligent design.
 
 ---
 
-## 🛡️ Tech & Tools
+## Technologies
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
 
 ---
 
-## 🚀 What I'm Building
+## Building
 
-### **Outclass**
+### Outclass  
 A global, premium learning platform powered by adaptive intelligence and hands‑on mastery.  
-Focused on real‑world capability, personalised learning flows, and measurable outcomes.
+Designed to replace outdated education with personalised, capability‑driven learning.
 
-### **Vedaris — Cloud Consultancy**
+### Vedaris — Cloud Consultancy  
 Designing scalable cloud architectures, multi‑platform workflows, and AI‑driven automation.  
 Helping teams build reliable, modern, production‑ready systems.
 
 ---
 
-## 📚 Focus Areas
+## Focus
 
 - Cloud architecture & distributed systems  
 - AI‑native workflows and intelligent automation  
 - Production‑grade SaaS engineering  
-- Real‑world learning systems & capability‑driven design  
-- Minimal, intentional, Swiss‑inspired product aesthetics  
+- Real‑world learning systems  
+- Minimal, intentional, Swiss‑inspired product design  
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
-![Ved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedprajapati&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedprajapati&layout=compact&theme=transparent)
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vedprajapati&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedprajapati&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-### ⭐ Building systems that outlast trends.
+### Building systems that outlast trends.
