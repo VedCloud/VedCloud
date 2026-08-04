@@ -1,7 +1,7 @@
 # Ved Prajapati
 
 **Cloud Engineer & AI Engineer**  
-**Founder of Vedaris & Outclass**
+**Founder of Vedaris**
 
 I architect real‑world learning systems, AI‑native workflows, and scalable cloud platforms.  
 My work focuses on helping people move beyond irrelevant education and gain real capability through intentional, hands‑on, intelligent design.
