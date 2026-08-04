@@ -26,9 +26,6 @@ My work focuses on helping people move beyond irrelevant education and gain real
 
 ## Building
 
-### Outclass  
-A global, premium learning platform powered by adaptive intelligence and hands‑on mastery.  
-Designed to replace outdated education with personalised, capability‑driven learning.
 
 ### Vedaris — Cloud Consultancy  
 Designing scalable cloud architectures, multi‑platform workflows, and AI‑driven automation.  
